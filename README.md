@@ -1,6 +1,6 @@
 Hi,
 
-I ran a custommer churn prediction model using 3 different machine learning algorithms on Python.
+I ran a customer churn prediction model using 3 different machine learning algorithms on Python.
 
 I wanted to identify the model that is most accurate for this specific problem. I am working on finding ways to improve the accuracy of these models. Here are my findings. 
 
